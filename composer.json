@@ -1,0 +1,17 @@
+{
+  "name": "gatewaymanagement/test",
+  "description": "test",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "seyyed sajad kashizadeh",
+      "email": "s.kashizadeh@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Gateways\\": "./"
+    }
+  }
+}
